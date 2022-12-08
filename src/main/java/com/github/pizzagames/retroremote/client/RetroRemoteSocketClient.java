@@ -17,6 +17,7 @@ public class RetroRemoteSocketClient implements Runnable {
 
             final InputStreamReader reader = new InputStreamReader(socket.getInputStream());
 
+            
             //reader.read();
 
             reader.close();
