@@ -1,7 +1,5 @@
 package com.github.pizzagames.retroremote.client;
 
-import jdk.internal.util.xml.impl.Input;
-
 import java.io.InputStream;
 
 public class InputAction {
@@ -12,7 +10,6 @@ public class InputAction {
     public static final String MOUSE_UP = "MU";
     public static final String MOUSE_MOVE = "MM";
     public static final String MOUSE_WHEEL = "MW";
-
     public static final String START_TOKEN = "{";
     public static final String END_TOKEN = "}";
 
