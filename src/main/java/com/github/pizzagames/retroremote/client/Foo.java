@@ -1,13 +1,11 @@
 package com.github.pizzagames.retroremote.client;
 
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
 
 import java.util.StringTokenizer;
 
 public class Foo {
 
-    public static void main(String[] args) throws ParseException {
+    public static void main(String[] args) {
         final String message = "{bar:'value', foo:1}," +
                 "{xpto:'boo'}";
 

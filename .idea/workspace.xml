@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d5f0f94-2cd0-48fd-baaa-d2f6b49f2979" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/RetroAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/RetroEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/RetroRemoteClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RetroRemoteClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RetroRemoteClient.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/InputAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/InputAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/InputConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/RetroRemoteClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/json-simple-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/slf4j-jdk14-1.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/slf4j-jdk14-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/InputAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/pizzagames/retroremote/client/RetroRemoteSocketClient.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +51,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/fraumar/Workspace/github/RetroRemoteClient",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Foo">
+  <component name="RunManager" selected="Application.RetroRemoteClient">
     <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.pizzagames.retroremote.client.Foo" />
       <module name="RetroRemoteClient" />
@@ -64,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RetroRemoteSocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.pizzagames.retroremote.client.RetroRemoteSocketClient" />
+    <configuration name="RetroRemoteClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.pizzagames.retroremote.client.RetroRemoteClient" />
       <module name="RetroRemoteClient" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +85,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RetroRemoteClient" />
         <item itemvalue="Application.Foo" />
-        <item itemvalue="Application.RetroRemoteSocketClient" />
       </list>
     </recent_temporary>
   </component>
